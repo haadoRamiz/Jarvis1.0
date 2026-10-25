@@ -1,0 +1,29 @@
+{
+  "apps": {
+    "steam": "steam://open/main",
+    "wallpaper engine": "steam://rungameid/431960",
+    "this pc": "shell:MyComputerFolder",
+    "notepad": "notepad",
+    "calculator": "calc",
+    "paint": "mspaint",
+    "chrome": "chrome",
+    "edge": "msedge",
+    "spotify": "spotify:",
+    "whatsapp": "whatsapp:",
+    "youtube": "https://www.youtube.com",
+    "gmail": "https://mail.google.com",
+    "maps": "https://maps.google.com"
+  },
+  "voice": "British male (Ryan)",
+  "speed": 0,
+  "lang": "English",
+  "gemini_key": "",
+  "claude_key": "",
+  "name": "",
+  "listen_mode": "Always respond",
+  "mic": "Default",
+  "startup": false,
+  "gemini_model": "gemini-3.8-flash",
+  "sens": 5,
+  "theme": "space"
+}
